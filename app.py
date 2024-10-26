@@ -1,4 +1,4 @@
-import telebot
+import pyTelegramBotAPI as telebot
 import torch
 import os
 import requests
